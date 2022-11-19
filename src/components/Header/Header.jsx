@@ -3,7 +3,7 @@ import icon from "../../blockchain.png"
 
 function Header() {
   return (
-    <header className="bg-transparent bg-opacity-10 backdrop-blur-lg top-0 sticky -mt-8 flex justify-between items-center text-white p-4">
+    <header className="bg-transparent z-50 bg-opacity-10 backdrop-blur-lg top-0 sticky -mt-8 flex justify-between items-center text-white p-4">
       <div className="flex gap-4">
         <div className="relative w-8 h-8 ">
             <img src={icon}   alt="now" />
