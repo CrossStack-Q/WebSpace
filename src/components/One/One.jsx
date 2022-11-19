@@ -12,7 +12,7 @@ function One({smbg,bg,pos,zindex}) {
           We're building a new path for the world's best builders to come
           together,explore promising domains and ship meaningful products</p>
       </div>
-      <button className="rounded-full m-4 p-1 border-2 px-4 border-white bg-white bg-opacity-20 text-lg text-white hover:bg-opacity-40">Explore</button>
+      <button className="rounded-full m-4 p-2 border-2 px-6 border-white bg-white text-xl text-black  font-semibold hover:bg-opacity-40">Explore</button>
     </div>
   );
 }
