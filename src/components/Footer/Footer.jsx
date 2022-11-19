@@ -16,6 +16,7 @@ function Footer() {
               <p className="text-zinc-400">Solana Web3 App</p>
               <p className="text-zinc-400">DAOs</p>
               <p className="text-zinc-400">NFT Game</p>
+              <p className="text-zinc-400">Solana Pay</p>
             </section>
           <div className=" p-4">
             <section className="flex flex-col gap-2 mt-8 sm:mt-4">
