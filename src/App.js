@@ -2,7 +2,6 @@ import React from "react";
 import Footer from "./components/Footer/Footer";
 import Header from "./components/Header/Header";
 import One from "./components/One/One";
-import Try from "./components/Try";
 import Two from "./components/Two/Two";
 
 function App() {
